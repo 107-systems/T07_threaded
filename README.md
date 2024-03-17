@@ -1,9 +1,7 @@
 <a href="https://107-systems.org/"><img align="right" src="https://raw.githubusercontent.com/107-systems/.github/main/logo/107-systems.png" width="15%"></a>
 T07 threaded
 ===
-Mobile outdoor robotics platform.
-
-a threaded robot exploration vehicle
+T07 threaded is a tracked mobile outdoor robotics platform.
 
 ### Repositories
 * [t07_robot](https://github.com/107-systems/t07_robot): ROS control code for T07 robot.
@@ -18,9 +16,11 @@ a threaded robot exploration vehicle
 
 ## Introduction
 
-The T07 mini is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments. There is also a mounting option for the [mandeye-controller](https://github.com/JanuszBedkowski/mandeye_controller).
+The T07 is an outdoor robotics platform intended for participation in contests like Robotem Rovne, Roboorienteering or Robotour but also for general robotic experiments.
 
-## electronics and software
+There is also a mounting option for the [mandeye-controller](https://github.com/JanuszBedkowski/mandeye_controller).
+
+## Electronics and firmware
 
 There are mounting holes for a Raspberry Pi or a [Pika Spark](https://docs.pika-spark.io/) on the controller standoff.
 
