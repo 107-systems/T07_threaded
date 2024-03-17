@@ -13,7 +13,7 @@ a threaded robot exploration vehicle
 ### 3D-Renderings
 
 <p align="center">
-   <img src="docs/images/T07_rendering.png" width="40%">
+   <img src="docs/images/T07_threaded_rendering.png" width="40%">
 </p>
 
 ## Introduction
